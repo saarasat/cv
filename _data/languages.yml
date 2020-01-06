@@ -1,7 +1,7 @@
 # Skill template
 - layout: left
   language: Suomi
-  ability: 
+  stars: 
     - star
     - star
     - star
@@ -10,7 +10,7 @@
 
 - layout: left
   language: Englanti
-  ability: 
+  stars: 
     - star
     - star
     - star
@@ -19,20 +19,20 @@
 
 - layout: left
   language: Espanja
-  ability: 
+  stars: 
     - star
     - star
     - star
-  noability:
+  empty_stars:
     - star
     - star
   
 - layout: left
   language: Ruotsi
-  ability: 
+  stars: 
     - star
     - star
-  noability:
+  empty_stars:
     - star
     - star
     - star

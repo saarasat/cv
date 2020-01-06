@@ -6,11 +6,11 @@
 
 - layout: left
   technology: Back-end osaaminen
-  ability: Junior-tason taidot tietokannoista sekä Javasta, joka on koulutusohjelman pääasiallinen opetuskieli. Lisäksi perusteet SQL:stä, JSON:sta ja Pythonista.
+  ability: Junior-tason taidot tietokannoista sekä Javasta, joka on koulutusohjelman opetuksen pääasiallinen ohjelmointikieli. Lisäksi perusteet SQL:stä, Node.js:sta ja Pythonista.
 
 - layout: left
   technology: Linux
-  ability: Junior-tason taidot
+  ability: Junior-tason taidot, Linux on ollut käytössä koko tietojenkäsittelytieteen opintojen ajan. 
 
 - layout: left
   technology: Office-ohjelmat

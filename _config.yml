@@ -19,18 +19,13 @@ about_content: | # this will include new lines to allow paragraphs
   
   Olen median ja markkinoinnin ammattilainen, joka on hurahtanut ohjelmistojen ja koodaamisen maailmaan.
 
-  Ekonomiksi luin itseni kotikaupungissani Oulussa.
-
-  Työskentelin viisi vuotta digitaalisen markkinoinnin parissa, ja nyt olen kandivaiheen loppusuoralla tietojenkäsittelytieteissä. 
-
-  Tykkään, kun saan oppia uutta. 
-
-  Motivoidun eniten, kun saan olla pienessä tiimissä kehittämässä jotain, josta on aidosti hyötyä. Oli se sitten asiakkaalle, työkaverille tai loppukäyttäjälle.
-
+  Ekonomiksi luin itseni Oulussa, jonka jälkeen työskentelin viisi vuotta digitaalisen markkinoinnin ja markkinointitutkimuksen parissa.
   
+  Mediatalossa devaajien kanssa tehty yhteistyö herätti vahvan kiinnostuksen kehityksen tekniseen puoleen, ja nyt olen kandivaiheen loppusuoralla tietojenkäsittelytieteissä. 
 
+  Motivoidun eniten, kun saan olla pienessä tiimissä kehittämässä jotain, josta on aidosti hyötyä.
 
-
+  Parhaimmillani olenkin siellä, missä kohderyhmän tarpeet ja nörtteily kohtaavat. 
 
 # Experience Section
 experience_title: Työkokemus
@@ -39,7 +34,7 @@ experience_title: Työkokemus
 education_title: Koulutus
 
 # More Section
-technology_title: Kieli- ja teknologiataidot
+techAndLang_title: Kieli- ja teknologiataidot
 
 # More Section
 achievements_title: Muuta minusta

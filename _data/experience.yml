@@ -1,12 +1,9 @@
-# Experience template
 - layout: left
   company: Alma Talent
   link: https://www.almatalent.fi/
   job_title: Tuotepäällikkö
   dates: 11/2017 - 3/2018
-  quote: >
-    Alma Media -konserniin kuuluva mediasisältöjä tuottava yritys
-  description: | # this will include new lines to allow paragraphs
+  description: | 
     Sisältömarkkinoinnin tuotevastuu Alma Talentin medioissa
     (Arvopaperi, Kauppalehti, Markkinointi&Mainonta, Mediuutiset, Mikrobitti
     Talouselämä, Tekniikka&Talous, Tivi ja Uusi Suomi). Sisältäen mm.:
@@ -21,15 +18,12 @@
       - Vastaava asiantuntija suurimmissa sisältömarkkinoinnin asiakkuuksissa: projektinhallinta,
       sisältöjen julkaisu, kampanjakokonaisuuksien raportointi ja asiakkaiden koulutus
 
-# Experience template
 - layout: left
   company: Alma Talent
   link: https://www.almatalent.fi/
   job_title: Digiasiantuntija
   dates: 5/2016 - 11/2017
-  quote: >
-    Alma Media -konserniin kuuluva mediasisältöjä tuottava yritys
-  description: | # this will include new lines to allow paragraphs
+  description: | 
     Sisältömarkkinoinnin tuotteistukset ja tuotekehitys yhdessä esimiehen kanssa
     
     Myyntihenkilöstön koulutus digituotteisiin liittyen
@@ -41,26 +35,24 @@
     
     Myyntimateriaalien tuottaminen
 
-# Experience template
 - layout: left
   company: Kauppalehti
   link: https://www.almatalent.fi/
   job_title: Digitrainee
   dates: 2/2015 - 4/2016
-  description: | # this will include new lines to allow paragraphs
+  description: | 
     Mainoskampanjoiden raportointi ja raportoinnin kehittäminen
 
     Sisältömarkkinoinnin kampanjoiden julkaisu ja raportointi
 
     Asiakastapaamiset asiantuntijaroolissa liittyen digitaaliseen mainontaan
 
-# Experience template
 - layout: left
   company: Binbit Group
   link: http://www.binbitgroup.com/
   job_title: Online Marketing Executive
   dates: 10/2013 - 11/2014, San Pedro Garza García, Meksiko
-  description: | # this will include new lines to allow paragraphs
+  description: | 
     Mainoskampanjoiden luonti digitaalisiin kanaviin
     
     Mediatoimistosuhteiden hoito: 
@@ -73,7 +65,6 @@
 
     Digitaalisten kampanjoiden tulosten arviointi ja analysointi
 
-# Experience template
 - layout: left
   company: Fane, Stern & Biel
   link: http://fsbir.com/fane-stern-biel/
@@ -81,32 +72,28 @@
   dates: >
     1/2013 - 5/2013,
     San Pedro Garza García, Meksiko 
-  description: |- # this will include new lines to allow paragraphs
+  description: |
     Markkinointitutkimuksen suorittaminen: uusien markkinointitutkimusten suunnittelu, 
     kvantitatiivisen datan analysointi ja rapottien laatiminen
 
-# Experience template
 - layout: left
   company: Berry Center Oy
   job_title: Myyjä
-  dates: 6/2013 - 8/2013 sekä 5/2012 - 8/2012
+  dates: 6/2013 - 8/2013 sekä 5/2012 - 8/2012, Oulu
   location: Oulu
-  description: |- # this will include new lines to allow paragraphs
+  description: |
     Marjojen myynti ja myyntipisteen kunnosta huolehtiminen
 
-
-# Experience template
 - layout: left
   company: Hesburger 
   job_title: Vuoropäällikkö
   dates: 9/2011 - 2/2012, Oulu
-  description: | # this will include new lines to allow paragraphs
+  description: | 
     Ravintolan toiminnasta vastaaminen työvuorossa, vuoron johtaminen sekä kassahenkilönä toimiminen
 
-# Experience template
 - layout: left
   company: Hesburger
   job_title: Hampurilaistyöntekijä
   dates: 1/2009 - 9/2011, Oulu
-  description: | # this will include new lines to allow paragraphs
+  description: | 
     Kassahenkilönä ja paistotyöntekijänä toimiminen sekä muut ravintola- ja asiakaspalvelutehtävät

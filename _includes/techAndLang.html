@@ -1,0 +1,25 @@
+<div class="container skills-container">
+  <h3><i class="fas fa-laptop-code icons-headline"></i>{{ site.langAndTech_title | default: "Kieli- ja teknologiataidot" }}</h3>
+  <div><h5></h5></div>
+  <div class="row clearfix layout">
+    <div class="col-xs-12 col-sm-4 col-md-3 col-print-12 layout.extradetails">
+      {% for item in site.data.languages %}
+        <p>{{ item.language }}
+          {% for item in item.stars %}
+            <span class="fa fa-star checked"></span>
+          {% endfor %}
+          {% for item in item.empty_stars %}
+            <span class="fa fa-star"></span>
+          {% endfor %}
+        </p>
+      {% endfor %}
+    </div>
+
+    <div class="col-xs-12 col-sm-8 col-md-9 col-print-12 layout.extradetails">
+      {% for technology in site.data.technologies %}
+        <p><b>{{technology.technology}}:</b> {{technology.ability}}</p>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+
