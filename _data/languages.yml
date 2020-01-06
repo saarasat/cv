@@ -1,0 +1,38 @@
+# Skill template
+- layout: left
+  language: Suomi
+  ability: 
+    - star
+    - star
+    - star
+    - star
+    - star
+
+- layout: left
+  language: Englanti
+  ability: 
+    - star
+    - star
+    - star
+    - star
+    - star
+
+- layout: left
+  language: Espanja
+  ability: 
+    - star
+    - star
+    - star
+  noability:
+    - star
+    - star
+  
+- layout: left
+  language: Ruotsi
+  ability: 
+    - star
+    - star
+  noability:
+    - star
+    - star
+    - star

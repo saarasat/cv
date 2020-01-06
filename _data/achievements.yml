@@ -1,0 +1,36 @@
+
+- layout: left
+  achievement: Tuutori
+  links: 
+    - link: www.tko-aly.fi
+      link_text: www.tko-aly.fi
+    - link: www.finanssi.org
+      link_text: www.finanssi.org
+  date: 2019, 2009
+  description: | 
+    Toimin Helsingin yliopiston tietojenkäsittelijöiden ainejärjestön TKO-älyn tuutorina 2019, ja Oulun yliopiston kauppatieteilijöiden
+    ainejärjestön Finanssin tuutorina 2009.
+  icon: <i class="fas fa-user-friends"></i>
+
+- layout: left
+  achievement: Pyöräilijä
+  links:
+  - link: https://mankelimatkalla.wordpress.com/
+    link_text: www.mankelimatkalla.wordpress.com/
+  date: 2019
+  description: | 
+    Kesäisin pyörä on paras kulkuväline. Viime kesänä se oli sitä myös Suomen läpi, aiheesta tuli pidettyä myös blogia.
+  icon: <i class="fas fa-bicycle"></i>
+
+- layout: left
+  achievement: Julkaisu
+  links:
+  - link: https://link.springer.com/chapter/10.1007/978-3-642-37437-1_24
+    link_text: www.springer.com
+  date: 2013
+  description: | 
+    Olin mukana kirjoittamassa tieteellistä artikkelia Pro Gradu -tutkielmani pohjalta. Aiheena mobiilipelien mainonta:
+    
+    Conference on e-Business, e-Services and e-Society, I3E 2013: Collaborative, Trusted and Privacy-Aware e/m-Services pp 286-297
+    <i>Rewarding In-Game Banner Ad Clicks with Tangible Incentives</i>
+  icon: <i class="fas fa-scroll"></i>

@@ -29,6 +29,11 @@ ul.icons a {
   line-height:60px;
 }
 
+.icons-achievement {
+  font-size: 48px; 
+  color: #3f7eb8;
+}
+
 .icons {
   padding: 0;
   font-size: 1em;
@@ -51,4 +56,8 @@ ul.icons a {
   .icons a:hover i {
     color: #e6e6e6;
   }
+}
+
+.checked {
+  color: #72bcd4;
 }

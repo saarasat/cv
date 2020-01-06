@@ -1,9 +1,43 @@
 # Education Template
 - layout: left
-  name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
-  quote: >
-    Short institution or course description (optional)
+  name: Helsingin yliopisto
+  dates: 8/2018 - 
+  qualification: Luonnontieteiden kandidaatti | Tietojenkäsittelytiede
   description: | # this will include new lines to allow paragraphs
-    Description of qualification
+    Tietojenkäsittelytieteiden kandiohjelma, jossa laaja-alaisesti sekä teoreettista pohjaa että käytännönläheistä 
+    projektityöskentelyä. Merkittävimpiin suoritettuihin kursseihin kuuluu mm.:
+    - Ohjelmoinnin perusteet (5 op) ja jatkokurssi (5 op)
+    - Tietorakenteet ja algoritmit (10 op)
+    - Tietoliikenteen perusteet (5 op)
+    - Tietokantojen perusteet (5 op)
+    - Johdatus tekoälyyn (5 op)
+    - Harjoitustyö: Tietokantasovellus (4 op)
+    - Full Stack -websovelluskehitys (5 op)
+    - Ohjelmistotuotanto ja versionhallinta (7 op)
+    - Ohjelmistotekniikka (5 op)
+    - Laskennan mallit (5 op)
+
+    Sivuaine: Matematiikka
+
+
+# Education Template
+- layout: left
+  name: Oulun yliopisto
+  dates: 8/2008 - 6/2013
+  qualification: Kauppatieteiden maisteri
+  quote: >
+  description: | # this will include new lines to allow paragraphs
+    Pääaine: Markkinointi
+
+    Sivuaineet: Yritysjuridiikka, laskentatoimi ja ulkomailla suoritettu
+    sivuaine (EM Strasbourg Business School, Ranska)
+
+    Pro Gradu -tutkielma: Effectiveness of Mobile In-Game Banner Advertising
+
+# Education Template
+- layout: left
+  name: Oulun Lyseon lukio
+  dates: 8/2005 - 5/2008
+  qualification: Ylioppilas
+
+    

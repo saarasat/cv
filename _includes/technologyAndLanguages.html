@@ -1,0 +1,25 @@
+<div class="container skills-container">
+  <h3>{{ site.more_title | default: "Kieli- ja teknologiataidot" }}</h3>
+
+<div class="row clearfix layout">
+  <div class="col-xs-12 col-sm-4 col-md-3 col-print-12 layout.extradetails">
+  {% for language in site.data.languages %}
+    <p>{{ language.language }}
+    {% for ability in language.ability %}
+        <span class="fa fa-star checked"></span>
+        {% endfor %}
+        {% for noability in language.noability %}
+        <span class="fa fa-star"></span>
+        {% endfor %}
+      </p>
+    {% endfor %}
+    </div>
+
+  <div class="col-xs-12 col-sm-8 col-md-9 col-print-12 layout.extradetails">
+    {% for technology in site.data.technologies %}
+      <p><b>{{technology.technology}}:</b> {{technology.ability}}</p>
+    {% endfor %}
+  </div>
+</div>
+</div>
+

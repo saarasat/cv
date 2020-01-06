@@ -1,0 +1,21 @@
+# Skill template
+
+- layout: left
+  technology: Front-end osaaminen
+  ability: Junior-tason taidot Reactista, HTML:sta sekä CSS:stä.
+
+- layout: left
+  technology: Back-end osaaminen
+  ability: Junior-tason taidot tietokannoista sekä Javasta, joka on koulutusohjelman pääasiallinen opetuskieli. Lisäksi perusteet SQL:stä, JSON:sta ja Pythonista.
+
+- layout: left
+  technology: Linux
+  ability: Junior-tason taidot.
+
+- layout: left
+  technology: Office-ohjelmat
+  ability: Kattavat taidot.
+
+- layout: left
+  technology: Analytiikkaohjelmat
+  ability: Työssäni olen käyttänyt runsaasti mm. Google Analyticsia, sekä erilaisia mainonnanhallinnan järjestelmiä.
