@@ -5,7 +5,7 @@
   qualification: Luonnontieteiden kandidaatti | Tietojenkäsittelytiede
   description: | # this will include new lines to allow paragraphs
     Tietojenkäsittelytieteiden kandiohjelma, jossa laaja-alaisesti sekä teoreettista pohjaa että käytännönläheistä 
-    projektityöskentelyä. Merkittävimpiin suoritettuihin kursseihin kuuluu mm.:
+    projektityöskentelyä. Merkittävimpiin suoritettuihin kursseihin kuuluvat mm.:
     - Ohjelmoinnin perusteet (5 op) ja jatkokurssi (5 op)
     - Tietorakenteet ja algoritmit (10 op)
     - Tietoliikenteen perusteet (5 op)
@@ -32,7 +32,7 @@
     Sivuaineet: Yritysjuridiikka, laskentatoimi ja ulkomailla suoritettu
     kauppatieteiden sivuainekokonaisuus (EM Strasbourg Business School, Ranska)
 
-    <a class="a.link" href="http://jultika.oulu.fi/files/nbnfioulu-201302281063.pdf">Pro gradu -tutkielma: Effectiveness of Mobile In-Game Banner Advertising</a>
+    <a class="a.link" target="_blank" href="http://jultika.oulu.fi/files/nbnfioulu-201302281063.pdf">Pro gradu -tutkielma: Effectiveness of Mobile In-Game Banner Advertising</a>
 
 # Education Template
 - layout: left

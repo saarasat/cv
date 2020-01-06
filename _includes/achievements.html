@@ -4,23 +4,24 @@
     <div class="row clearfix layout">
       <div class="col-xs-12 col-sm-2 col-md-2 col-print-12 details">
         <div class="icons-achievement">
-          {{ achievement.icon }}
-        </div>
-        
+          {%- if achievement.icon -%}{{ achievement.icon }}{%- endif -%}
+        </div>        
       </div>
+
       <div class="col-xs-12 col-sm-3 col-md-3 col-print-12 details">
         <h4>{{ achievement.achievement }}</h4>
-        {%- if achievement.links -%} 
-          {% for link in achievement.links %}
-            {% include a.html href=link.link class="link" %}{{ link.link_text }}</a>
-            <br>         
-          {% endfor %}
-        {%- endif -%}
-        {%- if achievement.date -%}<p>{{ achievement.date }}</p>{%- endif -%} 
+          {%- if achievement.links -%} 
+            {% for link in achievement.links %}
+              {% include a.html href=link.link class="link" %}{{ link.link_text }}</a>
+              <br>         
+            {% endfor %}
+          {%- endif -%}
+          {%- if achievement.date -%}<p>{{ achievement.date }}</p>{%- endif -%} 
       </div>
+
       <div class="col-xs-12 col-sm-7 col-md-7 col-print-12 ">
-        {{ achievement.description | strip | markdownify }}
+        {%- if achievement.description -%}{{ achievement.description | strip | markdownify }}{%- endif -%}
       </div>
-  </div>
+    </div>
   {% endfor %}
 </div>
