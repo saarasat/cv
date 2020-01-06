@@ -14,12 +14,12 @@
       sidosryhmien kanssa (mm. alihankkijat, sivustokehittäjät ja myynti)
       - Uusien sisältömarkkinointituotteiden kehitys ja tuotteistaminen
       - Myyntimateriaalien tuottaminen ja niistä vastaaminen, sekä muun henkilöstön koulutus
-      tuotteista
+      tuotteisiin liittyen
       - Sivustokehityshankkeissa sisältömarkkinoinnin tuotehallinta:
       kommunikointi ja koordinointi mainonnantekniikan sekä sivustokehittäjien kanssa
-    Asiakastilaisuudet ja -tapaamiset asiantuntijaroolissa
-    - Vastaava asiantuntija suurimmissa sisältömarkkinoinnin asiakkuuksissa: projektinhallinta,
-    sisältöjen julkaisu, kampanjakokonaisuuksien raportointi ja asiakkaiden koulutus
+      - Asiakastilaisuudet ja -tapaamiset asiantuntijaroolissa
+      - Vastaava asiantuntija suurimmissa sisältömarkkinoinnin asiakkuuksissa: projektinhallinta,
+      sisältöjen julkaisu, kampanjakokonaisuuksien raportointi ja asiakkaiden koulutus
 
 # Experience template
 - layout: left
@@ -47,8 +47,6 @@
   link: https://www.almatalent.fi/
   job_title: Digitrainee
   dates: 2/2015 - 4/2016
-  quote: >
-   Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
     Mainoskampanjoiden raportointi ja raportoinnin kehittäminen
 
@@ -62,18 +60,16 @@
   link: http://www.binbitgroup.com/
   job_title: Online Marketing Executive
   dates: 10/2013 - 11/2014, San Pedro Garza García, Meksiko
-  quote: >
-    Monikansallinen mobiiliviihteen tarjoamiseen erikoistunut yritys  
   description: | # this will include new lines to allow paragraphs
     Mainoskampanjoiden luonti digitaalisiin kanaviin
     
     Mediatoimistosuhteiden hoito: 
     - strateginen kampanjasuunnittelu
-    - neuvottelut alihankkijoiden kanssa
+    - neuvottelut toimistojen kanssa
     - ongelmien tunnistus ja ratkaisu
     - kommunikointi teknisen kehitystiimin sekä maapäälliköiden kanssa
     
-    Design-tiimin konsultointi
+    Design-tiimin konsultointi 
 
     Digitaalisten kampanjoiden tulosten arviointi ja analysointi
 
@@ -84,9 +80,7 @@
   job_title: Intern
   dates: >
     1/2013 - 5/2013,
-    San Pedro Garza García, Meksiko
-  quote: >
-    Monikansallinen mobiiliviihteen tarjoamiseen erikoistunut yritys  
+    San Pedro Garza García, Meksiko 
   description: |- # this will include new lines to allow paragraphs
     Markkinointitutkimuksen suorittaminen: uusien markkinointitutkimusten suunnittelu, 
     kvantitatiivisen datan analysointi ja rapottien laatiminen
@@ -97,8 +91,6 @@
   job_title: Myyjä
   dates: 6/2013 - 8/2013 sekä 5/2012 - 8/2012
   location: Oulu
-  quote: >
-   Short description of the company (optional)
   description: |- # this will include new lines to allow paragraphs
     Marjojen myynti ja myyntipisteen kunnosta huolehtiminen
 

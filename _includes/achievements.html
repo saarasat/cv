@@ -1,8 +1,8 @@
 <div class="container ">
-  <h3>{{ site.achievements_title | default: "Muut saavutukset" }}</h3>
+  <h3>{{ site.achievements_title | default: "Muuta minusta" }}</h3>
   {% for achievement in site.data.achievements %}
     <div class="row clearfix layout">
-      <div class="col-xs-12 col-sm-2 col-md-2 col-print-12">
+      <div class="col-xs-12 col-sm-2 col-md-2 col-print-12 details">
         <div class="icons-achievement">
           {{ achievement.icon }}
         </div>

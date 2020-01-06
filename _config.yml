@@ -17,20 +17,19 @@ linkedin_username: saarasatokangas
 about_profile_image: images/profiili2.jpeg
 about_content: | # this will include new lines to allow paragraphs
   
-  Olen median ja markkinoinnin ammattilainen, joka on hurahtanut ohjelmistojen ja koodaukseen maailmaan.
+  Olen median ja markkinoinnin ammattilainen, joka on hurahtanut ohjelmistojen ja koodaamisen maailmaan.
 
-  Ekonomiksi olen opiskellut rakkaassa kotikaupungissani Oulussa, jonka jälkeen toimin viitisen vuotta digitaalisen
-  markkinoinnin tuotekehityksessä Suomessa ja ulkomailla. 
+  Ekonomiksi luin itseni kotikaupungissani Oulussa.
 
-  Voimistuva halu työskennellä teknisemmän puolen kanssa vei mukanaan,
-  ja nyt olen kandivaiheen loppusuoralla Helsingin yliopiston tietojenkäsittelytieteissä.
+  Työskentelin viisi vuotta digitaalisen markkinoinnin parissa, ja nyt olen kandivaiheen loppusuoralla tietojenkäsittelytieteissä. 
+
+  Tykkään, kun saan oppia uutta. 
+
+  Motivoidun eniten, kun saan olla pienessä tiimissä kehittämässä jotain, josta on aidosti hyötyä. Oli se sitten asiakkaalle, työkaverille tai loppukäyttäjälle.
+
   
-  Motivoidun eniten, kun saan oppia uutta ja tehdä jotain, 
-  josta on aidosti hyötyä, 
-  oli se sitten asiakkaalle, työkaverille tai loppukäyttäjälle.
 
-  Parhaimmillani olenkin siellä, 
-  missä kohderyhmän tarpeet ja tekniset ratkaisut kohtaavat.
+
 
 
 # Experience Section
@@ -43,7 +42,7 @@ education_title: Koulutus
 technology_title: Kieli- ja teknologiataidot
 
 # More Section
-achievements_title: Harrastuksia ja järjestötoimintaa 
+achievements_title: Muuta minusta
   
 # Footer
 footer_show_references: true

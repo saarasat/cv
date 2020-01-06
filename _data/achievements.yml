@@ -9,21 +9,21 @@
   date: 2019, 2009
   description: | 
     Toimin Helsingin yliopiston tietojenkäsittelijöiden ainejärjestön TKO-älyn tuutorina 2019, ja Oulun yliopiston kauppatieteilijöiden
-    ainejärjestön Finanssin tuutorina 2009.
+    ainejärjestön Finanssin tuutorina 2009
   icon: <i class="fas fa-user-friends"></i>
 
 - layout: left
   achievement: Pyöräilijä
   links:
   - link: https://mankelimatkalla.wordpress.com/
-    link_text: www.mankelimatkalla.wordpress.com/
+    link_text: www.mankelimatkalla.com
   date: 2019
   description: | 
-    Kesäisin pyörä on paras kulkuväline. Viime kesänä se oli sitä myös Suomen läpi, aiheesta tuli pidettyä myös blogia.
+    Kesäisin pyörä on paras kulkuväline. Viime kesänä rakas Tunturini kiidätti minut Suomen läpi, ja aiheesta tuli pidettyä myös blogia.
   icon: <i class="fas fa-bicycle"></i>
 
 - layout: left
-  achievement: Julkaisu
+  achievement: Aloitteleva uuden tutkija
   links:
   - link: https://link.springer.com/chapter/10.1007/978-3-642-37437-1_24
     link_text: www.springer.com
@@ -31,6 +31,6 @@
   description: | 
     Olin mukana kirjoittamassa tieteellistä artikkelia Pro Gradu -tutkielmani pohjalta. Aiheena mobiilipelien mainonta:
     
-    Conference on e-Business, e-Services and e-Society, I3E 2013: Collaborative, Trusted and Privacy-Aware e/m-Services pp 286-297
-    <i>Rewarding In-Game Banner Ad Clicks with Tangible Incentives</i>
+    Conference on e-Business, e-Services and e-Society, I3E 2013: Collaborative, Trusted and Privacy-Aware e/m-Services pp 286-297:   
+    <a href="https://link.springer.com/chapter/10.1007/978-3-642-37437-1_24" target="_blank" class="a.link">Rewarding In-Game Banner Ad Clicks with Tangible Incentives</a>
   icon: <i class="fas fa-scroll"></i>
