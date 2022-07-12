@@ -5,7 +5,7 @@ repository: Git repository where your resume will be hosted, only required if yo
 # Personal info
 name: Saara Satokangas
 title: Kaupallinen nörtti 
-email: saara.satokangas[a]helsinki.fi
+email: saarasat[a]gmail.com
 
 darkmode: false
 
@@ -24,7 +24,7 @@ about_content: | # this will include new lines to allow paragraphs
   työskentelin viisi vuotta digitaalisen markkinoinnin ja markkinointitutkimuksen parissa.
   
   Mediatalossa devaajien kanssa tehty yhteistyö herätti vahvan kiinnostuksen kehityksen 
-  tekniseen puoleen, ja nyt olen kandivaiheen loppusuoralla tietojenkäsittelytieteissä. 
+  tekniseen puoleen, ja nyt olen vastavalmistunut tietojenkäsittelytieteen maisteri ja työskennellyt kaksi vuotta ohjelmistokehityksen parissa. 
 
   Motivoidun eniten, kun saan olla pienessä tiimissä kehittämässä jotain, josta on aidosti hyötyä.
 
