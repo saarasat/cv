@@ -1,11 +1,19 @@
 - layout: left
-  company: University of Helsinki, Toska-group
+  company: Helsingin yliopisto, Toska-ryhmä
   link: https://toska.dev/
   job_title: Ohjelmistokehittäjä
   dates: 9/2020 - nyt, Helsinki
   description: | 
     Opetushallinnollisten sovellusten kehittäminen henkilökunnan ja opiskelijoiden tarpeisiin. Projektien pääasialliset teknologiat ovat React.js, Node.js, PostgreSQL ja Docker. 
 
+- layout: left
+  company: Aalto-yliopisto
+  link: https://www.aalto.fi/fi
+  job_title: Kesäharjoittelija
+  dates: 6/2020 - 8/2020, Espoo
+  description: | 
+    Oppimisalusta A+:n (https://plus.cs.aalto.fi/) front-endin kehittäminen. Työssä käytettyihin teknologioihin kuuluivat Python (Django framworkin avulla) ja Sass
+    
 - layout: left
   company: Alma Talent
   link: https://www.almatalent.fi/
