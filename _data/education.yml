@@ -1,6 +1,24 @@
 # Education Template
 - layout: left
   name: Helsingin yliopisto
+  dates: 7/2020 - 5/2022
+  qualification: Filosofian maisteri | Tietojenkäsittelytiede
+  description: | # this will include new lines to allow paragraphs
+    Tietojenkäsittelytieteiden kandiohjelma, jossa laaja-alaisesti sekä teoreettista pohjaa että käytännönläheistä 
+    projektityöskentelyä. Merkittävimpiin suoritettuihin kursseihin kuuluvat mm.:
+    - Master's Thesis in Computer Science (30 op)
+    - Internet Protocols (5 op)
+    - Cloud and Edge Computing (5 op)
+    - Big Data Platforms (5 op)
+    - Software Testing (5 op)
+    - Distributed Systems (5 op)
+    - Networked Systems and Services (5 op)
+    - Human Computer Interaction (5 op)
+    - Introduction to Internet of Things (5 op)
+
+# Education Template
+- layout: left
+  name: Helsingin yliopisto
   dates: 8/2018 - 
   qualification: Luonnontieteiden kandidaatti | Tietojenkäsittelytiede
   description: | # this will include new lines to allow paragraphs
